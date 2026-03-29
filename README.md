@@ -100,14 +100,6 @@ git clone https://github.com/hunterr198/opensource-deep-dive-skill.git ~/.claude
 - **对话式探索**：先对话再文档，用户的追问驱动分析深度
 - **务实产出导向**：每个模块都连接到"对我做产品/创业有什么用"
 
-## 方法论来源
-
-- [a16z: Open Source From Community to Commercialization](https://a16z.com/open-source-from-community-to-commercialization/) — 开源项目商业化框架
-- [Stack Overflow: The Product Approach to Open Source](https://stackoverflow.blog/2023/11/08/the-product-approach-to-open-source-communities/) — 产品思维看开源
-- [CHAOSS: Open Source Project Health Metrics](https://chaoss.community/kb/metrics-model-starter-project-health/) — 社区健康度评估
-- [GitHub OSPO: Health Metrics](https://github.com/github/github-ospo/blob/main/docs/open-source-health-metrics.md) — GitHub 官方健康指标
-- [Linux Foundation: Setting an Open Source Strategy](https://www.linuxfoundation.org/resources/open-source-guides/setting-an-open-source-strategy) — 开源战略制定
-
 ## License
 
 MIT
